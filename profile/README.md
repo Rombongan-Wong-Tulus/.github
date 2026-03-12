@@ -33,11 +33,11 @@ Setiap anggota memiliki misi untuk menyebarkan energi positif dan memberikan dam
 ### 2) Kontribusi ke Repositori
 
 - Akses repositori yang tersedia/visible dalam organisasi.
-- Terapkan alur **[gitflow](https://github.com/mokletdev/.github/blob/master/guide/contributing.md)** saat membuat branch, commit, dan pull request.
+- Terapkan alur **[gitflow](https://github.com/Rombongan-Wong-Tulus/.github/blob/master/guide/contributing.md)** saat membuat branch, commit, dan pull request.
 
 <br>
 
-Selengkapnya cek **[tutorial gitflow](https://github.com/mokletdev/.github/blob/master/guide/contributing.md)**.
+Selengkapnya cek **[tutorial gitflow](https://github.com/Rombongan-Wong-Tulus/.github/blob/master/guide/contributing.md)**.
 
 ---
 
