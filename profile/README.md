@@ -53,7 +53,7 @@ Selengkapnya cek **[tutorial gitflow](https://github.com/Rombongan-Wong-Tulus/.g
     <td align="center">
       <a href="https://github.com/akbarrt">
         <img src="https://avatars.githubusercontent.com/u/96976873?v=4" width="90" style="border-radius: 50%;"><br/>
-        <sub><b>Akbar RT</b></sub>
+        <sub><b>Akbar Noviandi</b></sub>
       </a>
     </td>
     <td align="center">
